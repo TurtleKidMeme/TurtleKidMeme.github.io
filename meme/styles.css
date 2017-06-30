@@ -1,0 +1,10 @@
+img {
+    width:450px;
+}
+
+body {
+    background-color: blue;
+    color: yellow;
+    cursor: url('63959.png'), auto;
+    font-family: 'Comic Sans MS'
+}
